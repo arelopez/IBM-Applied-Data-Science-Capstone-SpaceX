@@ -1,1 +1,5 @@
 # IBM-Applied-Data-Science-Capstone-SpaceX
+
+In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+
+En este capstone, predeciremos si la primera etapa del Falcon 9 aterrizará con éxito. SpaceX anuncia lanzamientos de cohetes Falcon 9 en su página web, con un coste de 62 millones de dólares; otros proveedores cuestan más de 165 millones de dólares cada uno, gran parte del ahorro se debe a que SpaceX puede reutilizar la primera etapa. Por lo tanto, si podemos determinar si la primera etapa aterrizará, podremos determinar el coste de un lanzamiento. Esta información puede utilizarse si una empresa alternativa quiere pujar contra SpaceX por el lanzamiento de un cohete. 
